@@ -6,4 +6,5 @@ simple procedural terrain generation in python
 Install
 ===========
 pip install perlin_noise
+
 pip install pygame
