@@ -1,5 +1,6 @@
 # Procedural generation on Python
 ===========
+
 An example of a simple procedural terrain generation in python. Perlin noise used
 ===========
 ![Preview](https://github.com/Lolaperez2020/Procedural_generation_on_Python/blob/main/img/preview.png "icon")
