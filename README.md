@@ -22,3 +22,5 @@ python /PATH_TO/main.py
 ```
 python3 /PATH_TO/main.py
 ```
+# About performance
+The code is written in python and runs on the processor, this project is suitable for learning. If you need more performance, I advise you to visit my [repository about fractal noise](https://github.com/LolaperezDS/FractalNoiseCGFX) in a shader language
